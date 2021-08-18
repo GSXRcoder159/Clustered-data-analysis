@@ -1,10 +1,3 @@
-/**
-    Utef: Cluster analysis
-    @file clusters.cpp
-    @author Adam Kuča
-    @version 1.1 4/10/20 
-*/
-
 #include "cluster.h"
 #include <iostream>
 #include <fstream>
